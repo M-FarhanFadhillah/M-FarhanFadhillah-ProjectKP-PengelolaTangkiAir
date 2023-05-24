@@ -1,28 +1,22 @@
-# Aplikasi Pengiriman Barang
+# Aplikasi Pengelolahan Tangki Air
 
-Ini merupakan sebuah aplikasi pengiriman senderhana mengunakan framework CI (Codeigniter)
+Ini merupakan sebuah aplikasi Pengelolahan & Pembelian Tangki Air senderhana mengunakan framework CI (Codeigniter)
 
-<img src="page1.png" width="400" alt="pengiriman"></img>
-<img src="page2.png" width="400" alt="pengiriman"></img>
-<br>
-<img src="page3.png" width="400" alt="pengiriman"></img>
-<img src="page4.png" width="400" alt="pengiriman"></img>
 
 ## Modul
 #### Login
 #### Master
-* Data Kategoria
-* Data Barang
+* Data Tangki
+* Data Harga Tangki
 * Data Kurir
 * Data Pelanggan
 * Data User
 #### Transaksi
 * Pengiriman
-* Cetak Surat Jalan berserta QRCODE
+* Cetak Slip Pembelian
+* Cetak SPK (Surat Perintah Kerja)
 #### Laporan
 * Laporan Pengiriman
-#### Settting
-* Ganti Password
 
 ## Framework & Libraries
 - [Codeigniter](https://codeigniter.com)
